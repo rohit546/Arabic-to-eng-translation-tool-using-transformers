@@ -1,6 +1,7 @@
 import streamlit as st
 import torch
 import json
+from transformer_nmt.pth import Transformer
 
 # Load vocabularies
 with open("src_vocab.json", "r") as f:
