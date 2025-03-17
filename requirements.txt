@@ -1,0 +1,4 @@
+torch==2.0.1
+streamlit==1.26.0
+datasets==2.14.5
+sentencepiece==0.1.99
